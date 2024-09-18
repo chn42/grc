@@ -1,5 +1,5 @@
 # field
-regexp=^([\w\s])*:
+regexp=^\s*([\w\s-])*:(?=\s|$)
 colours=bold white
 =======
 # data
